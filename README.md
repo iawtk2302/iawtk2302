@@ -1,7 +1,7 @@
-[![MasterHead](https://github.com/iawtk2302/iawtk2302/blob/main/banner%20android.gif)](https://github.com/iawtk2302)
+[![MasterHead](banner.gif)](https://github.com/iawtk2302)
 <h1 align="center">Hi 👋, I'm Nguyen Tuan Khoi</h1>
 <h3 align="center">A passionate mobile developer from Vietnam</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/iawtk2302/iawtk2302/blob/main/coding%20gif.gif")>
+<img align="right" alt="Coding" width="400" src="coding.gif")>
 
 - 🔭 I’m currently studying at [UIT](https://www.uit.edu.vn/)
 
