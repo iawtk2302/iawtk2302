@@ -3,7 +3,7 @@
 <h3 align="center">A passionate mobile developer from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="coding.gif")>
 
-- 🔭 I’m currently studying at [ExecutionLab](https://executionlab.asia/)
+- 🔭 I’m currently working at [Executionlab](https://executionlab.asia/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/iawtk2302](https://github.com/iawtk2302)
 
