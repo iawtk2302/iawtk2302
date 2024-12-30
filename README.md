@@ -3,13 +3,11 @@
 <h3 align="center">A passionate mobile developer from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="coding.gif")>
 
-- 🔭 I’m currently studying at [UIT](https://www.uit.edu.vn/)
-
-- 🌱 I’m currently learning **NextJS**
+- 🔭 I’m currently studying at [ExecutionLab](https://executionlab.asia/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/iawtk2302](https://github.com/iawtk2302)
 
-- 💬 Ask me about **Flutter, React Native, Android**
+- 💬 Ask me about **Flutter, Android**
 
 - 📫 How to reach me **work.tuankhoi.2302@gmail.com**
 
