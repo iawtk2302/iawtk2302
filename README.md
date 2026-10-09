@@ -10,7 +10,7 @@
 
 <img src="assets/projects.svg" alt="Featured projects" width="100%"/>
 
-<img src="assets/reviews.png" alt="What people say" width="100%"/>
+<img src="assets/reviews.svg" alt="What people say" width="100%"/>
 
 <a href="https://tuankhoidev.com/"><img src="assets/contact_portfolio.svg" alt="Portfolio" width="27.11%"/></a><a href="https://linkedin.com/in/khoihaycuoi"><img src="assets/contact_linkedin.svg" alt="LinkedIn" width="22.89%"/></a><a href="mailto:work.tuankhoi.2302@gmail.com"><img src="assets/contact_gmail.svg" alt="Gmail" width="22.89%"/></a><a href="https://github.com/iawtk2302"><img src="assets/contact_github.svg" alt="GitHub" width="27.11%"/></a>
 
